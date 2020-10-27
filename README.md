@@ -14,7 +14,7 @@ Repo for **"LoopReg: Self-supervised Learning of Implicit Surface Correspondence
 10. Download SMPL from https://smpl.is.tue.mpg.de/
 
 ## Download pre-trained models
-1. Download LoopReg weights:
+1. Download LoopReg weights: https://nextcloud.mpi-klsb.mpg.de/index.php/s/LkRPT3qpEWW8pQR
 2. `mkdir <LoopReg directory>/experiments`
 3. Put the downloaded weights in `<LoopReg directory>/experiments/`
 
