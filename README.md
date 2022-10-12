@@ -43,7 +43,8 @@ For training/ testing on dataset, you'd need the following directory structure i
 `python train_PartSpecificNet.py 1 -batch_size 16 -cache_suffix cache_1 -split_file assets/data_split_01_supervised.pkl`
 
 
-Cite us:
+## Cite us:
+If you use this code please cite: </br>
 ```
 @inproceedings{bhatnagar2020loopreg,
     title = {LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration},
